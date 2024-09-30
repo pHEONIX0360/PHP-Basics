@@ -6,5 +6,6 @@ if(preg_match($pattern,$string)){
 
 }
 else{
-    echo "pattern $pattern not found in $string \n"
+    echo "pattern $pattern not found in $string \n";
 }
+?>
